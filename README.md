@@ -2,6 +2,8 @@
 Dashboard opendcim for Grafana using source Mysql and Prometheus
 File JSON 
 Import file json or copy code json in Grafana new dashboard and select source Msql "your dcim" and Prometheus "your job pdu"... EnJoy !
+Link Grafana dashboard https://grafana.com/grafana/dashboards
+
 ![Tableau de bord OpenDCIM](https://github.com/alex001x/OpenDCIM-Grafana-Dashboard/assets/146840804/2245924c-ce03-4991-aadb-2b485511c94e)
 https://grafana.com/grafana/dashboards/21313-1-tableau-de-bord-opendcim/
 
