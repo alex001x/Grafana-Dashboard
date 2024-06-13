@@ -17,6 +17,10 @@ https://grafana.com/grafana/dashboards/21317-brock/
 
 https://grafana.com/grafana/dashboards/21316-carnet-de-c-ble/
 
+https://grafana.com/grafana/dashboards/21320-historique-temperature/
+
+https://grafana.com/grafana/dashboards/21321-historique-hydrom-trie/
+
 ![Tickets - Tableaux de bord - Grafana](https://github.com/alex001x/OpenDCIM-Grafana-Dashboard/assets/146840804/c08b6c23-9f9f-4524-9ed0-8d9bef8d540a)
 
 ![2024-05-29 14_45_09-Historique Hydrométrie - Tableaux de bord - Grafana — Mozilla Firefox](https://github.com/alex001x/OpenDCIM-Grafana-Dashboard/assets/146840804/82f18ccb-4c4a-4a23-9cbd-12b01847bae9)
